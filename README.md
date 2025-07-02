@@ -4,6 +4,8 @@ Welcome to the **Complete Python Learning Repository**! This repository is a one
 
 Whether you're a **beginner** or an **experienced developer** brushing up your skills, this repo is structured to guide you through all essential and advanced Python concepts.
 
+> ✅ **Prepared with dedication by [Karan](#)**
+
 ---
 
 ## 📚 Table of Contents
@@ -60,3 +62,8 @@ Clone the repo and navigate through the folders:
 ```bash
 git clone https://github.com/yourusername/python-complete-learning.git
 cd python-complete-learning
+
+---
+
+**Happy Coding!** ✨  
+**Made with ❤️ by Karan**
