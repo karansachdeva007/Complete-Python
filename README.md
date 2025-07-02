@@ -62,8 +62,7 @@ Clone the repo and navigate through the folders:
 ```bash
 git clone https://github.com/yourusername/python-complete-learning.git
 cd python-complete-learning
-
----
+```
 
 **Happy Coding!** ✨  
 **Made with ❤️ by Karan**
