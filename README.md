@@ -19,7 +19,7 @@ Whether you're a **beginner** or an **experienced developer** brushing up your s
 5. 📚 [Modules](./5-Modules)
 6. 📁 [File Handling](./6-File%20Handling)
 7. ⚠️ [Exception Handling](./7-Exception%20Handling)
-8. 🧱 [Classes and Objects](./8-Class%20And%20Objects)
+8. 🧱 [Classes and Objects](./8-Classes%20and%20Objects)
 9. 🧠 [Advanced Python Concepts](./9-Advance%20Python%20Concepts)
 
 ---
