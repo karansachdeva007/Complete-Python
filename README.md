@@ -27,7 +27,7 @@ Whether you're a **beginner** or an **experienced developer** brushing up your s
 ### 📊 Data & Analysis
 
 10. 📈 [Data Analysis with Python](./10-Data%20Analysis%20With%20Python)
-11. 🗃️ [Working with Databases](./11-Working%20With%20Databases)
+11. 🗃️ [Working with Databases](./11-Working%20with%20Databases)
 
 ---
 
