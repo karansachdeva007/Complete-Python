@@ -33,7 +33,7 @@ Whether you're a **beginner** or an **experienced developer** brushing up your s
 
 ### 🛠️ Python Internals & Utilities
 
-12. 📝 [Logging in Python](./12-Logging%20In%20Python)
+12. 📝 [Logging in Python](./12-Logging%20in%20Python)
 13. 🧠 [Memory Management](./15-Memory%20Management)
 14. 🔀 [Multithreading and Multiprocessing](./16-Multithreading%20and%20Multiprocessing)
 
