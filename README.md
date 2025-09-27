@@ -41,7 +41,7 @@ Whether you're a **beginner** or an **experienced developer** brushing up your s
 
 ### 🌐 Web Development
 
-15. 🌍 [Flask](./13-Flask/flask)
+15. 🌍 [Flask](./13-Flask)
 16. 📊 [Streamlit](./14-Streamlit)
 
 ---
